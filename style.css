@@ -1,34 +1,154 @@
-article{
+
+#cabeçalho-1{
   font-size: 16px;
-  color: #E1624F;
+  line-height: 22px;
+  font-weight: bold; /* a fonte fica em negrito */
+  color: #e1624f;
+  text-transform: uppercase; /* a fonte fica com todas as letras em maiúsculo */
+  margin-bottom: 8px;
+}
+
+#imagem-1{
+  border-radius: 28px;
+  width: 100%;
+  margin-bottom: 24px;
+}
+h1{
+  font-size: 36px;
+  color: #1B1B1B;
+  margin-bottom: 40px;
+}
+
+
+
+#page{
+  width: 1280px;
+  background-color: #ffffff;
+  margin:auto;
+  padding: 0 0;
+  
+
 }
 
 body{
   background-size: cover;
+
 }
 
-h1{
-  font-size: 36px;
-  color: #1B1B1B;
-}
+
 
 #descri{
 font-size: 16px;
 font-style: italic;
+font-family: "Open Sans", sans-serif;
+margin-bottom: 44px;
+}
+
+#cabeçalho-2{
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold; 
+  color: #e1624f;
+  text-transform: uppercase; 
+  margin-bottom: 2px;
+  margin-top: 64px;
 }
 
 h2{
   font-size: 32px;
+  margin-bottom: 8px;
 }
+
+#para-int{
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 64px;
+  color: #333333;
+}
+
+#imagem-2{
+  border-radius: 28px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
 
 h3{
   font-size: 28px;
 }
 
-p{
+#para-1{
   font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  margin-top:4px; 
+  color: #333333;
+
+
 }
+
+#para-2{
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 4px;
+  color: #333333;
+}
+
+#para-3{
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 4px;
+  color: #333333;
+}
+
+#imagem-3{
+  border-radius: 28px;
+  width: 100%;
+  margin-top: 48px;
+}
+
+#imagem-4{
+  border-radius: 28px;
+  width: 100%;
+  margin-top: 48px;
+}
+
+
 
 #lista{
   font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  margin-right: 24px;
+  margin-top:16 px;
+
+  
+}
+
+.divider-2{
+  margin-top: 40px;
+}
+
+#final{
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 40px;
+    color: #333333;
+}
+
+footer{
+ text-align: center;
+ margin-top: 54px;
+}
+
+ 
+#heart{
+  width: 16px;
+}
+
+ul{
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  margin-right: 24px;
+  margin: 24px;
+  padding-right: 24px;
+  font-weight:bolder ;
 }
